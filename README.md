@@ -1,0 +1,1 @@
+This project is aimed at predicting fraudulent banking transactions using various machine learning techniques like Logistic Regression, Random Forest, Deep Learning etc. We are provided with highly imbalanced or skewed dataset which is then handled to train the models.
